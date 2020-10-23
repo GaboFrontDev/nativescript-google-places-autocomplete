@@ -1,6 +1,6 @@
 {
-  "name": "nativescript-google-places-autocomplete",
-  "version": "1.0.1",
+  "name": "n7-google-places-autocomplete",
+  "version": "1.0.9",
   "description": "A NativeScript plugin that works.",
   "main": "google-places-autocomplete",
   "typings": "index.d.ts",
